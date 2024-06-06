@@ -22,4 +22,7 @@ SP-GENERATOR është një mjet për të krijuar llogari të reja në Spotify në
 1. Sigurohu që ke instaluar Python 3 dhe menaxherin e paketave `pip`.
 2. Instalo varësitë e nevojshme:
 
-   pip install requests
+1.pip install requests
+2.git clone https://github.com/volpinottv/SP-GENERATOR
+3.cd SP-GENERATOR
+4.python3 SP-GENERATOR.py
