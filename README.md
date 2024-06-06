@@ -39,39 +39,6 @@ SP-GENERATOR është një mjet për të krijuar llogari të reja në Spotify në
     python3 SP-GENERATOR.py
     ```
 
-## Përdorimi
-
-1. Për të gjeneruar një llogari dhe për ta printuar atë në terminal:
-
-    ```sh
-    python3 SP-GENERATOR.py
-    ```
-
-2. Për të gjeneruar disa llogari, përdor opsionin `-n` për të specifikuar numrin e llogarive:
-
-    ```sh
-    python3 SP-GENERATOR.py -n 5
-    ```
-
-3. Për të ruajtur llogaritë e gjeneruara në një skedar, përdor opsionin `-o` për të specifikuar emrin e skedarit:
-
-    ```sh
-    python3 SP-GENERATOR.py -n 3 -o llogarit.txt
-    ```
-
-## Shembuj
-
-- Për të gjeneruar 5 llogari dhe për t'i printuar ato në terminal:
-
-    ```sh
-    python3 SP-GENERATOR.py -n 5
-    ```
-
-- Për të gjeneruar 3 llogari dhe për t'i ruajtur ato në një skedar të quajtur `llogarit.txt`:
-
-    ```sh
-    python3 SP-GENERATOR.py -n 3 -o llogarit.txt
-    ```
 
 ## Autori
 
